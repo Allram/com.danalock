@@ -11,6 +11,12 @@ Let Homey talk with the Z-Wave versions of the Danalock V2 and V3 devices. Befor
 
 ## Changelog:
 
+### v2.1.2
+Fixes advanced device settings
+
+### v 2.1.0
+Adds support for Energy
+
 ### v 2.0.6
 Improve pairing wizard instructions and images
 
